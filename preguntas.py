@@ -1,4 +1,4 @@
-"""
+"""ejemplo
 Optimización usando gradiente descendente - Regresión polinomial
 -----------------------------------------------------------------------------------------
 
